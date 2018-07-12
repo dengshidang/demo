@@ -1,7 +1,11 @@
 package demo;
 
 import java.util.concurrent.ConcurrentHashMap;
-
+/**
+ *
+ * @author ASUS
+ *
+ */
 public class ConcurrentHashMap2 {
 	
 	
